@@ -88,6 +88,7 @@ namespace PetShop
                     role = "b",
                     about = "c"
                 });
+                MessageBox.Show("Profile Created!");
             }
         }
 
